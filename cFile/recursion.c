@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 //blog url:http://www.cnblogs.com/Anker/archive/2013/03/04/2943498.html
+//get the length of linklist by recursion and tailrecursion
 typedef struct node
 {
 	int data;
